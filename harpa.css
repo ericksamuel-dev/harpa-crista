@@ -1,0 +1,52 @@
+body
+{
+    background-color: white;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 15px;
+    color: white;
+}
+.site
+{
+    background-color: chocolate;
+    width: 100%;height: 800px;
+    margin: 2px auto;
+}
+.conteudo
+{
+   font-family: white;
+   width: 870px;
+   height: 870px;
+   float: left;
+   position: relative;
+}
+a
+{
+   text-decoration: none;
+   font-family: 'Times New Roman', sans-serif;
+   color: white;
+   font-size: 17px;
+   font-weight: bold;
+}
+a:hover
+{
+   color:black;
+   font-size: 15px;
+}
+.centro
+{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    float: left;
+    position: relative;
+}
+p
+{
+    text-align: center;
+    font-family: courier;
+    font-size: 17px;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    border: 2px solid black;
+    position: relative;
+}
