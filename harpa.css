@@ -53,9 +53,10 @@ p
 }
 tr,td
 {
+  text-align: center;
   font-family: 'Times New Roman';
-  font-size: 15px;
-  color: black;
+  font-size: 20px;
+  color: white;
 }
 .rodape
 {
